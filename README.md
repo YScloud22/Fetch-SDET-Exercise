@@ -1,7 +1,7 @@
 # Fetch-SDET-Exercise
  Find Fake Bar Coding Exercise
 
-- Install the required Python packages in requirements.txt
+- Create a virtual Python evironment and install the required Python packages in requirements.txt
 - Run Find_Fake_Bar.py
 
 Screenshot of a possible output:
