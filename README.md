@@ -2,6 +2,8 @@
  Find Fake Bar Coding Exercise
 
 - Create a virtual Python evironment and install the required Python packages in requirements.txt
+  - https://docs.python.org/3/library/venv.html
+  - https://note.nkmk.me/en/python-pip-install-requirements/
 - Run Find_Fake_Bar.py
 
 Screenshot of a possible output:
