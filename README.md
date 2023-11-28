@@ -4,7 +4,7 @@
 The Python script (Find_Fake_Bar.py) involves using Selenium to interact with "http://sdetchallenge.fetch.com/" to find the fake gold bar among 9 bars.
 
 Set Up:
-- Create a virtual Python evironment and install the required Python packages in requirements.txt
+- Create a virtual Python environment and install the required Python packages in requirements.txt
   - https://docs.python.org/3/library/venv.html
   - https://note.nkmk.me/en/python-pip-install-requirements/
 - Run Find_Fake_Bar.py
